@@ -26,6 +26,7 @@ to that worksheet.
 make using the Maximax, Maximin, and Averaging heuristics to decide which tier of service to
 subscribe to. Based on your model, answer the questions in the workbook.
 After reviewing prior expense claims, you estimate the following likelihoods for system usage:
+![alt text](https://raw.githubusercontent.com/liuqianyu821/Qianyu_Excel_Portfolio/main/Screenshot%202022-03-16%20224342.png)
 
 4. Based on this new information, formulate a decision model that shows what decision should be
 made based on the Expected Monetary Value (EMV) decision heuristic. Based on your model,
