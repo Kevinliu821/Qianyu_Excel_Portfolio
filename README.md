@@ -1,8 +1,8 @@
 # Qianyu_Excel_Portfolio
 
-# Project 1
+# Project 1: Heuristic Models
 **Scenario**:
-Your company is implementing a new Expense Management system that can automate the process of
+The company is implementing a new Expense Management system that can automate the process of
 employees submitting home office or travel expenses and managers reviewing and approving them for
 payment.
 The new system is licensed from the vendor on a per-user and per-month basis, so when an employee
@@ -17,17 +17,16 @@ expense system. You found that 35 employees regularly submit expenses, but also 
 95 employees submit expenses occasionally
 
 **Tasks**:
-1. In the Cashflows-and-Payoff worksheet, complete the Expected Annual Cash Outflows by
+1. In the **Cashflows-and-Payoff worksheet**, complete the **Expected Annual Cash Outflows** by
 calculating the values of the shaded cells. These values should be derived from the License Costs
 range. Note: carefully review the tiered pricing structure when calculating these amounts.
 2. Create a new worksheet titled "Decision-Heuristics” and copy the Expected Annual Cash Outflows
 to that worksheet.
 3. Using the Expected Annual Cash Outflows, formulate a decision model that shows what decision to
-make using the Maximax, Maximin, and Averaging heuristics to decide which tier of service to
+make using the **Maximax**, **Maximin**, and **Averaging** heuristics to decide which tier of service to
 subscribe to. Based on your model, answer the questions in the workbook.
 After reviewing prior expense claims, you estimate the following likelihoods for system usage:
 ![alt text](https://raw.githubusercontent.com/liuqianyu821/Qianyu_Excel_Portfolio/main/Screenshot%202022-03-16%20224342.png)
-
 4. Based on this new information, formulate a decision model that shows what decision should be
 made based on the Expected Monetary Value (EMV) decision heuristic. Based on your model,
 answer the questions in the workbook.
