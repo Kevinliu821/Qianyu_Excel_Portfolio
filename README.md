@@ -16,7 +16,7 @@ In determining which tier to sign up for, you estimated the number of users who 
 expense system. You found that 35 employees regularly submit expenses, but also found that the other
 95 employees submit expenses occasionally
 
-**Tasks:
+**Tasks**:
 1. In the Cashflows-and-Payoff worksheet, complete the Expected Annual Cash Outflows by
 calculating the values of the shaded cells. These values should be derived from the License Costs
 range. Note: carefully review the tiered pricing structure when calculating these amounts.
@@ -26,8 +26,7 @@ to that worksheet.
 make using the Maximax, Maximin, and Averaging heuristics to decide which tier of service to
 subscribe to. Based on your model, answer the questions in the workbook.
 After reviewing prior expense claims, you estimate the following likelihoods for system usage:
-# of Users 35 85 105 130
-Probability 40% 35% 20% 5%
+
 4. Based on this new information, formulate a decision model that shows what decision should be
 made based on the Expected Monetary Value (EMV) decision heuristic. Based on your model,
 answer the questions in the workbook.
