@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Qianyu_Excel_Portfolio
 
-You can use the [editor on GitHub](https://github.com/liuqianyu821/Qianyu_Excel_Portfolio/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Project 1: Heuristic Models
+**Scenario**:
+The company is implementing a new Expense Management system that can automate the process of
+employees submitting home office or travel expenses and managers reviewing and approving them for
+payment.
+The new system is licensed from the vendor on a per-user and per-month basis, so when an employee
+submits an expense, your company is charged for that use of the system. However, the vendor offers a
+discount if a customer company signs a contract guaranteeing a minimum number of users according to
+a tiered user structure. For example, if the contract specifies at least 25 users will submit expenses in a
+month (Tier 1), the per user rate is $15.50; if the contract specifies at least 100 users (Tier 4), the per
+user rate drops to $6.50 per user. There is also an annual system access fee that is charged regardless
+the number of users, that differs according to the tier of service.
+In determining which tier to sign up for, you estimated the number of users who would regularly use the
+expense system. You found that 35 employees regularly submit expenses, but also found that the other
+95 employees submit expenses occasionally
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuqianyu821/Qianyu_Excel_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Tasks**:
+1. In the **Cashflows-and-Payoff worksheet**, complete the **Expected Annual Cash Outflows** by
+calculating the values of the shaded cells. These values should be derived from the License Costs
+range. Note: carefully review the tiered pricing structure when calculating these amounts.
+2. Create a new worksheet titled "Decision-Heuristics” and copy the Expected Annual Cash Outflows
+to that worksheet.
+3. Using the Expected Annual Cash Outflows, formulate a decision model that shows what decision to
+make using the **Maximax**, **Maximin**, and **Averaging** heuristics to decide which tier of service to
+subscribe to. Based on your model, answer the questions in the workbook.
+After reviewing prior expense claims, you estimate the following likelihoods for system usage:
+![alt text](https://raw.githubusercontent.com/liuqianyu821/Qianyu_Excel_Portfolio/main/Screenshot%202022-03-16%20224342.png)
+4. Based on this new information, formulate a decision model that shows what decision should be
+made based on the Expected Monetary Value (EMV) decision heuristic. Based on your model,
+answer the questions in the workbook.
